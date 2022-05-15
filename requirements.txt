@@ -18,3 +18,5 @@ jupyterlite-xeus-wren==0.2.0
 jupyterlite-xeus-sqlite==0.2.0
 plotly>=5,<6
 theme-darcula
+ipyturtle
+ipythonblocks
