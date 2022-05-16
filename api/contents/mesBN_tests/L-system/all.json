@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-05-16T17:42:10.135460Z",
+      "format": null,
+      "last_modified": "2022-05-16T17:40:51.863275Z",
+      "mimetype": null,
+      "name": "L-Systeme.ipynb",
+      "path": "mesBN_tests/L-system/L-Systeme.ipynb",
+      "size": 16168,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-16T17:42:10.135460Z",
+      "format": null,
+      "last_modified": "2022-05-16T17:40:51.863275Z",
+      "mimetype": null,
+      "name": "L-Systeme-Complet.ipynb",
+      "path": "mesBN_tests/L-system/L-Systeme-Complet.ipynb",
+      "size": 27622,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-16T17:42:10.139460Z",
+      "format": null,
+      "last_modified": "2022-05-16T17:40:51.879275Z",
+      "mimetype": "application/pdf",
+      "name": "res_L-systemes.pdf",
+      "path": "mesBN_tests/L-system/res_L-systemes.pdf",
+      "size": 3473624,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-05-16T17:42:10.139460Z",
+  "format": "json",
+  "last_modified": "2022-05-16T17:42:10.139460Z",
+  "mimetype": null,
+  "name": "L-system",
+  "path": "mesBN_tests/L-system",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

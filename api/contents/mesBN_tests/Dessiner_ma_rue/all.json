@@ -1,0 +1,61 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-05-16T17:42:10.131460Z",
+      "format": null,
+      "last_modified": "2022-05-16T17:40:51.863275Z",
+      "mimetype": null,
+      "name": "Dessiner_ma_rue-le_code_de_demo.ipynb",
+      "path": "mesBN_tests/Dessiner_ma_rue/Dessiner_ma_rue-le_code_de_demo.ipynb",
+      "size": 15941,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-16T17:42:10.135460Z",
+      "format": null,
+      "last_modified": "2022-05-16T17:40:51.863275Z",
+      "mimetype": null,
+      "name": "Dessiner_ma_rue.ipynb",
+      "path": "mesBN_tests/Dessiner_ma_rue/Dessiner_ma_rue.ipynb",
+      "size": 53972,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-16T17:42:10.135460Z",
+      "format": null,
+      "last_modified": "2022-05-16T17:40:51.863275Z",
+      "mimetype": "text/x-python",
+      "name": "dessiner_ma_rue-demo.py",
+      "path": "mesBN_tests/Dessiner_ma_rue/dessiner_ma_rue-demo.py",
+      "size": 8110,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-05-16T17:42:10.131460Z",
+      "format": null,
+      "last_modified": "2022-05-16T17:40:51.863275Z",
+      "mimetype": null,
+      "name": "Dessiner_ma_rue-Complet.ipynb",
+      "path": "mesBN_tests/Dessiner_ma_rue/Dessiner_ma_rue-Complet.ipynb",
+      "size": 57028,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-05-16T17:42:10.135460Z",
+  "format": "json",
+  "last_modified": "2022-05-16T17:42:10.135460Z",
+  "mimetype": null,
+  "name": "Dessiner_ma_rue",
+  "path": "mesBN_tests/Dessiner_ma_rue",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
